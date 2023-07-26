@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a164bed0-d737-4052-a311-9b2f8be6c329" name="Changes" comment="" />
+    <list default="true" id="a164bed0-d737-4052-a311-9b2f8be6c329" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/ch01/ch01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch02/ch02.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch03/ch03.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch04/ch04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch05/ch05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch06/ch06.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/ch07.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pro01/pro01.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,9 +19,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
   <component name="ProjectId" id="2SjOKzGzHlGhmwkmeeKMXVWcvlB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,7 +26,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/user/IdeaProjects/ch06",
@@ -36,7 +41,6 @@
       <option name="presentableId" value="Default" />
       <updated>1689656463845</updated>
       <workItem from="1689656464860" duration="11000" />
-      <workItem from="1690279838858" duration="3000" />
     </task>
     <servers />
   </component>
